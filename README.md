@@ -1,11 +1,15 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=venom?text=imnotcrying&animation=twinkling&color=gradient&customColorList=0,2,2,5,30)
+<img src="https://capsule-render.vercel.app/api?type=venom&text=imnotcrying&animation=twinkling&color=gradient&customColorList=0,2,2,5,30&fontSize=30" />
 
-![](https://img.shields.io/badge/<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>)
-![](https://img.shields.io/badge/<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>)
-
-
+<span>
+  <a>
+    <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>  
+  </a>
+  <a>
+    <img scr="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>  
+  </a>
+<span>
 
 <!--
 **oyslucy/oyslucy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
