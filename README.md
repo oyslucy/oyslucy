@@ -3,8 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=slice)
 
 
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+https://img.shields.io/badge/<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
+https://img.shields.io/badge/<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 
 <!--
 **oyslucy/oyslucy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
