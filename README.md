@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <img src="https://capsule-render.vercel.app/api?type=venom&text=imnotcrying&animation=twinkling&color=gradient&customColorList=0,2,2,5,30&fontSize=30" />
 
 <span>
