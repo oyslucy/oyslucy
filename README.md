@@ -1,27 +1,46 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&text=imnotcrying&animation=twinkling&color=gradient&customColorList=0,2,2,5,30&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Yeonseo%20Oh&fontAlign=50&textBg=false&fontSize=60" />
 
-now studying,
+📱 iOS Developer
+🤖 Interested in AI Engineering (Computer Vision, Experimental ML)
+🎓 Computer Science @ Hongik University
 
-<span>
-  <a>
-    <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>  
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>  
-  </a>
-<span>
+---
 
-<!--
-**oyslucy/oyslucy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## *Education & Activities*
+- 홍익대학교 컴퓨터공학과 *(2022.03 ~ 현재)*
+- UMC (University MakeUs Challenge) 5th IT 개발동아리 iOS 트랙 *(2023.09 ~ 2024.02)*
+- SOPT 대학생 연합 IT 벤처 창업 동아리 34 기 iOS 파트 *(2024.03 ~ 2024.08)*
+- 멋쟁이사자처럼 백엔드 파트 *(2024.03 ~ 2024.12)*
+- 네이버 커넥트재단 AI 트랙 *(2025.09 ~ 현재)*
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## *Projects*
+
+- **Gill’s Dream** (2025.02 ~ )  
+  AI-powered domestic travel planner using YouTube Shorts  
+  iOS Lead Developer & Product Designer
+
+- **Univoice** (2024.01 ~ 2024.02)  
+  University notice aggregation service  
+  iOS Developer
+
+- **Recyclable Waste Detection Model** (2025.12)  
+  Object detection & data-centric performance optimization
+
+- **Hand Bone Image Segmentation** (2025.12 ~ 2026.01)  
+  Medical image segmentation
+
+---
+
+## *Skills*
+
+| Category | Stack |
+|--------|-------|
+| **Languages** | Swift, Python, Java |
+| **Mobile** | UIKit, RxSwift, ReactorKit, Storyboard, AutoLayout, Alamofire |
+| **AI / ML** | PyTorch, Tensorflow, Computer Vision |
+| **Tools** | Git, GitHub, Xcode, VS Code, IntelliJ, Figma, Slack, Jira |
+
+---
+
+💡 I enjoy exploring problems that spark my curiosity and designing reliable systems across different domains.
