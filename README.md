@@ -2,7 +2,7 @@
 
 📱 iOS Developer
 🤖 Interested in AI Engineering (Computer Vision, Experimental ML)
-🎓 Computer Science @ Hongik University
+🎓 Computer Engineering @ Hongik University
 
 ---
 
